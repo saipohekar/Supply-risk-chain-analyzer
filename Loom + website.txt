@@ -1,0 +1,10 @@
+website link = https://supplychainriskanalyzer.streamlit.app/
+
+
+Loom video link = https://www.loom.com/share/fc74a3cee53846268c9aa67ff6ab7c6d
+
+
+
+api key = GROQ_API_KEY="gsk_Xx17H1FX8F Yxe5meHoiuWGdyb3FYcBEBCkxlW2 kQsfUQLR85YvB0"
+
+                  TAVILY_API_KEY="tvly-dev- 1K6Lgz-HSbiMnAXUV3jazQ1kFyF63sE9t4s IjgxAZV9c5pg1D
