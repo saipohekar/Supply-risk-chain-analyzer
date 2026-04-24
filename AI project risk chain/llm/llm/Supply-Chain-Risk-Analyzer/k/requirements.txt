@@ -1,0 +1,6 @@
+PyQt6
+mss
+pynput
+Pillow
+requests
+python-dotenv
